@@ -6,7 +6,7 @@ Original corpora contained 1,397,173 tokes.
 Tokens containing English characters or digits were removed from the lists.
 
 
-heb_stopwords.txt - list of stopwords
+<b>heb_stopwords.txt - list of stopwords</b>
 
-heb_stopwords_counts.txt - list of stopwords + counts
+<b>heb_stopwords_counts.txt - list of stopwords + counts</b>
 
